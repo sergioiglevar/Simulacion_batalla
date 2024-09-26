@@ -1,3 +1,4 @@
-# Ejercicios_Python
+# BATALLA ENTRE EL EJERCITO ROJO Y EL EJERCITO AZUL
 
-## Ejercicios de introduccion Python
+## ¿Quien saldrá vencedor?
+### Que comience la guerra
