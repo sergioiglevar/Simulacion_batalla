@@ -96,7 +96,7 @@ def main():
     ejercito2 = Ejercito("Ejército Azul")
 
     # Reclutar unidades
-    for _ in range(30):
+    for _ in range():
         ejercito1.reclutar_unidad(Arquero())
         ejercito2.reclutar_unidad(Arquero())
     for _ in range(30):
